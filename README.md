@@ -1,2 +1,16 @@
-# expressLibraryApp
-A simple express library app using modular architecture. It is built to enable management of a local library.
+# estimation-system
+
+## Sample Library Application
+```
+This is a sample Library application using NodeJS / Express, pug templating engine and MongoDB database
+```
+
+## Project setup
+```
+npm install
+```
+
+### Start development server
+```
+npm run devstart
+```
