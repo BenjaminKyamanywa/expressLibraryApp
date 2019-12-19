@@ -1,6 +1,6 @@
-# estimation-system
+# Express Library Application
 
-## Sample Library Application
+## Description
 ```
 This is a sample Library application using NodeJS / Express, pug templating engine and MongoDB database
 ```
